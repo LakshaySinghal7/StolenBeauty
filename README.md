@@ -266,7 +266,7 @@ Find the thief!
 <img src="https://user-images.githubusercontent.com/79582204/236830541-8c2d9c69-6eac-4154-812b-5086a7f60f10.jpg" alt="mongo" width=100 style="margin:auto">
 
 ## Hosting 
-<img src="https://user-images.githubusercontent.com/79582204/236830856-2a8dfa96-a458-4a8e-b40f-5fbe326129b6.png" alt="mongo" width=90 style="margin:auto"> <img src="https://user-images.githubusercontent.com/79582204/236909729-45156b1a-4b10-4d79-9965-553a5ddc0d52.png" alt="mongo" width=90 style="margin:auto">
+<img src="https://user-images.githubusercontent.com/79582204/236830856-2a8dfa96-a458-4a8e-b40f-5fbe326129b6.png" alt="mongo" width=90 style="margin:auto">
 
 # Project Set-up
 ## Install Node
