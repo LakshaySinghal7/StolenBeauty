@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/79582204/236816839-e36ef675-f81b-48c5-8065-6d2e32781256.jpg" alt="" width=1000>
 <br><br>
-    A unique and engaging website that combines the excitement of a game with the benefits of a psychological evaluation to deliver a truly memorable and insightful soft skills assessment. The Stolen Beauty offers an immersive and thrilling experience with an array of challenging puzzles, intriguing clues, captivating stories, and exciting prizes to keep you engaged and entertained.
+    A unique and engaging website that combines the excitement of a game with the benefits of a psychological evaluation to deliver a truly memorable and insightful soft skills assessment. The Stolen Beauty offers an immersive and thrilling experience with an array of challenging puzzles, intriguing clues, captivating stories, and Soft Skills analysis to keep you engaged and entertained.
 </p>
 
 # Features
